@@ -1,0 +1,8 @@
+Agile Development places a high priority on providing customers with value by attending to their requirements 
+and preferences while guarantees that the most important features are produced first and that iterative changes 
+are driven by customer feedback by dividing work down into small, manageable tasks. However, it lacks of 
+predictability so that project timeframes and outcomes might be difficult to predict with accuracy due to 
+Agile iterative and incremental methodology. Stakeholders who need set budgets or timeframes may find this 
+unpredictability troublesome. Additionally, planning, coordinating, and communicating take more time and effort 
+when using agile frameworks like Scrum. This overhead can take a lot of time, especially for projects with short 
+deadlines or small teams.
