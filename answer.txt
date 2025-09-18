@@ -11,3 +11,9 @@ The scrum master is the role responsible for gluing everything together and ensu
 Scrum product owners understand the customer and business requirements, then create and manage the product backlog 
 based on those requirements. Since agile teams are, by design, flexible and responsive, it is the responsibility of 
 the product owner to ensure that they are delivering the most value.
+
+3 types of meeting includes sprint planning, daily scrum and sprint review/retrospective. Sprint planning is to 
+determine what work will be done in the upcoming sprint and how that work will be completed. Daily scrum is to inspect 
+progress toward the sprint goal and adapt the plan for the next 24 hours, ensuring team alignment and identifying any obstacles.
+The Sprint Review is where the team demonstrates the completed work and gathers feedback from stakeholders. The Sprint Retrospective 
+is a follow-up meeting where the team reflects on what went well and what can be improved in the next sprint.
