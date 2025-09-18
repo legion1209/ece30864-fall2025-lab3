@@ -17,3 +17,17 @@ determine what work will be done in the upcoming sprint and how that work will b
 progress toward the sprint goal and adapt the plan for the next 24 hours, ensuring team alignment and identifying any obstacles.
 The Sprint Review is where the team demonstrates the completed work and gathers feedback from stakeholders. The Sprint Retrospective 
 is a follow-up meeting where the team reflects on what went well and what can be improved in the next sprint.
+
+Epic
+A big user story that needs to be broken down. Epics group together bugs, stories, and tasks to show the progress of a larger initiative.
+In agile development, epics usually represent a significant deliverable, such as a new feature or experience in the software your team develops.
+By default, software projects come with three standard work types:
+
+Bug 
+A bug is a problem which impairs or prevents the functions of a product.
+
+Story
+A user story is the smallest unit of work that needs to be done.
+
+Task
+A task represents work that needs to be done.
