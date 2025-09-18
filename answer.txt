@@ -6,3 +6,8 @@ Agile iterative and incremental methodology. Stakeholders who need set budgets o
 unpredictability troublesome. Additionally, planning, coordinating, and communicating take more time and effort 
 when using agile frameworks like Scrum. This overhead can take a lot of time, especially for projects with short 
 deadlines or small teams.
+
+The scrum master is the role responsible for gluing everything together and ensuring that scrum is being done well.
+Scrum product owners understand the customer and business requirements, then create and manage the product backlog 
+based on those requirements. Since agile teams are, by design, flexible and responsive, it is the responsibility of 
+the product owner to ensure that they are delivering the most value.
